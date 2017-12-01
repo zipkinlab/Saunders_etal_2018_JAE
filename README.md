@@ -2,6 +2,10 @@
 # Evaluating population viability and efficacy of conservation management using integrated population models
 *This paper is currently in press at Journal of Applied Ecology. Please see Dryad for additional data files, http://dx.doi.org/10.5061/dryad.j2906 (available once article is published)*
 
+PIPL_IPM file includes code for integrated population model
+PIPL_IPM_BPVA includes code for extending the IPM into a BPVA
+PIPL_IPM_BPVA_Mgmt includes code for extending the IPM-BPVA to include evaluation of 4 management scenarios
+
 # Abstract
 1. Predicting population responses to environmental conditions or management scenarios is a fundamental challenge for conservation. Proper consideration of demographic, environmental, and parameter uncertainties is essential for projecting population trends and optimal conservation strategies. 
 2. We developed a coupled integrated population model-Bayesian population viability analysis (IPM-BPVA) to assess the (i) impact of demographic rates (survival, fecundity, immigration) on past population dynamics; (ii) population viability 10 years into the future; and (iii) efficacy of possible management strategies for the federally endangered Great Lakes piping plover (*Charadrius melodus*) population. 
