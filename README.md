@@ -1,6 +1,7 @@
 # piping-plover-IPM
 # Evaluating population viability and efficacy of conservation management using integrated population models
 *This paper is currently in press at Journal of Applied Ecology*
+*Please see Dryad for additional data files, http://dx.doi.org/10.5061/dryad.j2906 (available once article is published)*
 
 # Abstract
 1. Predicting population responses to environmental conditions or management scenarios is a fundamental challenge for conservation. Proper consideration of demographic, environmental, and parameter uncertainties is essential for projecting population trends and optimal conservation strategies. 
