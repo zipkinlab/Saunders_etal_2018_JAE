@@ -17,4 +17,6 @@ ________________________________________________________________________________
 *Please see Dryad for additional data files, http://dx.doi.org/10.5061/dryad.j2906
 
 ## Code
-PIPL_IPM file includes code for integrated population model; PIPL_IPM_BPVA includes code for extending the IPM into a BPVA; PIPL_IPM_BPVA_Mgmt includes code for extending the IPM-BPVA to include evaluation of 4 management scenarios
+1. [PIPL_IPM_Saunders.R](https://github.com/zipkinlab/Saunders_etal_2018_JAE/blob/master/PIPL_IPM_Saunders.R) includes code for integrated population model  
+2. [PIPL_IPM_BPVA_Saunders.R](https://github.com/zipkinlab/Saunders_etal_2018_JAE/blob/master/PIPL_IPM_BPVA_Saunders.R) includes code for extending the IPM into a BPVA  
+3. [PIPL_IPM_BPVA_Mgmt_Saunders.R](https://github.com/zipkinlab/Saunders_etal_2018_JAE/blob/master/PIPL_IPM_BPVA_Mgmt_Saunders.R) includes code for extending the IPM-BPVA to include evaluation of 4 management scenarios
